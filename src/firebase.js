@@ -14,15 +14,13 @@ import {
   onSnapshot 
 } from "firebase/firestore";
 
-// ── REPLACE THESE WITH YOUR FIREBASE CONFIG ──────────────────
-// Step: Firebase console → Project settings → Your apps → Web app
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
+  apiKey: "AIzaSyC7vZnBCG-jrb2QVQ8FjIisifyts_T_ccQ",
+  authDomain: "kaamoo-3bb17.firebaseapp.com",
+  projectId: "kaamoo-3bb17",
+  storageBucket: "kaamoo-3bb17.firebasestorage.app",
+  messagingSenderId: "571491086753",
+  appId: "1:571491086753:web:bc2849884f9ae1fcbfdbe0"
 };
 // ─────────────────────────────────────────────────────────────
 
